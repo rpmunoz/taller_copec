@@ -1,0 +1,23 @@
+- stationId: 76
+- - config:
+    - smoothingLevel: 0.01
+      glitchThreshold: -10.0
+  - params:
+    - paramName: Humedad 10
+      paramId: 231
+    - paramName: Humedad 20
+      paramId: 232
+    - paramName: Humedad 30
+      paramId: 233
+    - paramName: Humedad 40
+      paramId: 234
+    - paramName: Humedad 50
+      paramId: 235
+    - paramName: Humedad 60
+      paramId: 236
+    - paramName: Humedad 70
+      paramId: 237
+    - paramName: Humedad 80
+      paramId: 238
+    - paramName: Humedad 100
+      paramId: 240
