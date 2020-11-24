@@ -1,4 +1,5 @@
 notebooks/data
+notebooks/models
 *.gz
 *.zip
 *.tar
