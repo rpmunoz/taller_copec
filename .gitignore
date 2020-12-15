@@ -1,4 +1,4 @@
-#notebooks/data
+notebooks/data
 notebooks/models
 *.gz
 *.zip
